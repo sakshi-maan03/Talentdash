@@ -1,0 +1,6 @@
+{
+  "name": "TalentDash",
+  "description": "Precision career intelligence and compensation engine. Compare, filter, and analyze standardized salary and role data across major tech companies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
